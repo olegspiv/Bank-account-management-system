@@ -33,6 +33,13 @@ Additional files (e.g., `open_bank.hpp`, `csv_file_management.hpp`) handle speci
 
 ---
 
+## **Special Note: PIN Number for Bank Operations**  
+
+Currently, the default PIN number for bank operations is **1234**.  
+If you want to change this value, you can modify it in the file **`password_protection.hpp`** under the constant **`PASSWORD`**.
+
+---
+
 ## **Design Principles (SOLID)**  
 
 ### **S - Single Responsibility Principle**  
